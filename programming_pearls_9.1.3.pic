@@ -1,0 +1,15 @@
+.PS
+n = 5				# number of langs & machines
+boxht = boxwid = .2		
+h = .3; w = .35			# height & width for spacing
+I: box at w*(n+1)/2,0		# intermediate language box
+for i = 1 to n do {
+	box with .s at i*w, h	# language box
+	line from last box.s to I.n
+	box with .n at i*w, -h	# machine box
+	line from last box.n to I.s
+}
+"1 intermediate language    " at I.w rjust
+"5 languages  " at 2nd box .w rjust
+"5 machines  " at 3rd box .w rjust
+.PE

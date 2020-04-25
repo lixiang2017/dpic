@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: dpic version 2020.03.01 option -v for SVG 1.1 -->
+<!-- width="160" height="129" -->
+<svg
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+ xml:space="preserve"
+ style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision;
+ image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+ width="159.466667px" height="128px"
+ viewBox="0 0 159.466667 128"
+ font-size="11pt" text-anchor="middle"
+ stroke="black" stroke-miterlimit="10" stroke-width="1.066667" fill="none">
+<g>
+<rect x="3.733333" y="0.533333" width="38.4" height="38.4" />
+<text font-size="11pt" stroke-width="0.2pt" fill="black" x="22.933333" y="24.573333">B1</text>
+<polygon stroke-width="0" fill="black"
+ points="25.333333,77.333333 22.933333,86.933333
+20.533333,77.333333" />
+<line x1="22.933333" y1="38.933333" x2="22.933333" y2="84.734344" />
+<rect x="3.733333" y="86.933333" width="38.4" height="38.4" />
+<text font-size="11pt" stroke-width="0.266667"
+ fill="black"
+ text-anchor="end"
+ x="0" y="110.973333">B2 </text>
+<line x1="42.133333" y1="106.133333" x2="99.733333" y2="106.133333" />
+<rect stroke-dasharray="5.6,4"
+ x="99.733333" y="86.933333" width="57.6" height="38.4" />
+<text font-size="11pt" stroke-width="0.2pt" fill="black" x="128.533333" y="110.973333">B3</text>
+<polygon stroke-width="0" fill="black"
+ points="122.42901,79.145058 128.533333,86.933333
+119.482095,82.933949" />
+<polygon stroke-width="0" fill="black"
+ points="48.237657,27.521609 42.133333,19.733333
+51.184572,23.732718" />
+<line x1="126.797556" y1="85.583284" x2="43.869111" y2="21.083382" />
+</g></svg>

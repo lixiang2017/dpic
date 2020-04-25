@@ -1,0 +1,11 @@
+.PS
+boxht = .4; boxwid = .4
+down  # set default direction
+B1: box "B1"
+arrow
+B2: box
+"B2 " at B2.w rjust
+line right .6 from B2.e
+B3: box dashed wid .6 "B3"
+line <-> from B3.n to B1.e
+.PE

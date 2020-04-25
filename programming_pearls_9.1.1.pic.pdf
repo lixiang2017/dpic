@@ -1,0 +1,83 @@
+%PDF-1.4
+% Creator: dpic version 2020.03.01 option -d for PDF
+1 0 obj << /Type /Catalog /Pages 2 0 R >> endobj
+2 0 obj << /Type /Pages /Kids [ 3 0 R ] /Count 1 >> endobj
+3 0 obj << /Type /Page /Parent 2 0 R
+ /MediaBox [     0     0   236    38 ]
+ /Contents 6 0 R
+ /Resources <<
+   /ProcSet 4 0 R
+   /Font << /F1 5 0 R >>
+   >>
+ >> endobj
+4 0 obj [/PDF /Text] endobj
+5 0 obj << /Type /Font /Subtype /Type1
+ /Name /F1 /BaseFont /Courier              
+ /Encoding /WinAnsiEncoding
+ >> endobj
+6 0 obj << /Length    763 >>
+stream
+ 0.8 w
+ 54.8 18.8 m
+ 54.8 28.732112 42.698168 36.8 27.8 36.8 c
+ 12.901832 36.8 0.8 28.732112 0.8 18.8 c
+ 0.8 8.867888 12.901832 0.8 27.8 0.8 c
+ 42.698168 0.8 54.8 8.867888 54.8 18.8 c h S
+BT
+/F1 11 Tf
+ 8 22.1 Td
+(Source) Tj
+ET
+BT
+/F1 11 Tf
+ 14.6 11.1 Td
+(Code) Tj
+ET
+ 83.6 17 m
+ 90.8 18.8 l 83.6 20.6 l h f
+ 54.8 18.8 m
+ 89.150758 18.8 l S
+ 90.8 0.8 54 36 re
+ S
+BT
+/F1 11 Tf
+ 91.4 16.6 Td
+(Compiler) Tj
+ET
+ 173.6 17 m
+ 180.8 18.8 l 173.6 20.6 l h f
+ 144.8 18.8 m
+ 179.150758 18.8 l S
+ 234.8 18.8 m
+ 234.8 28.732112 222.698168 36.8 207.8 36.8 c
+ 192.901832 36.8 180.8 28.732112 180.8 18.8 c
+ 180.8 8.867888 192.901832 0.8 207.8 0.8 c
+ 222.698168 0.8 234.8 8.867888 234.8 18.8 c h S
+BT
+/F1 11 Tf
+ 188 22.1 Td
+(Object) Tj
+ET
+BT
+/F1 11 Tf
+ 194.6 11.1 Td
+(Code) Tj
+ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000062 00000 n 
+0000000111 00000 n 
+0000000170 00000 n 
+0000000338 00000 n 
+0000000366 00000 n 
+0000000488 00000 n 
+trailer
+   << /Size 7
+      /Root 1 0 R
+   >>
+startxref
+1304
+%%EOF
